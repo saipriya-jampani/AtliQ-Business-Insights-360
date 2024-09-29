@@ -39,7 +39,7 @@ post_invoice_deductions
 
 Using these data sets, I developed a comprehensive data model, which served as the foundation for creating the dashboards.
 ## Dashboards created:- 
-### Home Page:-
+### [Home page](https://github.com/saipriya-jampani/AtliQ-Business-Insights-360/blob/main/Home%20page.png)_ 
 This Power BI Home page is designed to facilitate navigation between different pages in the dashboard. 
 It includes buttons and links to various sections, making it easier for users to access the information they need.
 
